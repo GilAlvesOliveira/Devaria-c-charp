@@ -1,0 +1,15 @@
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net6.0\TesteVariavelConstante.exe
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net6.0\TesteVariavelConstante.deps.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net6.0\TesteVariavelConstante.runtimeconfig.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net6.0\TesteVariavelConstante.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net6.0\TesteVariavelConstante.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.csproj.AssemblyReference.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.AssemblyInfoInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.AssemblyInfo.cs
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.csproj.CoreCompileInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\refint\TesteVariavelConstante.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\TesteVariavelConstante.genruntimeconfig.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net6.0\ref\TesteVariavelConstante.dll
