@@ -24,6 +24,7 @@ namespace TesteVariavelConstante
             Console.WriteLine(constante);
             Console.WriteLine("O número informado foi: " + inteiro);
 
+            //teste
         }
     }
 }
