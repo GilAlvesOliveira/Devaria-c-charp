@@ -1,0 +1,5 @@
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
