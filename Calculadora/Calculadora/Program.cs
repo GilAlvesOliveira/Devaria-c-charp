@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Calculadora
 {
     class Program
@@ -8,17 +9,17 @@ namespace Calculadora
             switch (operador)
             {
                 case "+": return primeiroNumero + segundoNumero;
-                case "-": return primeiroNumero + segundoNumero;
-                case "*": return primeiroNumero + segundoNumero;
-                case "/": return primeiroNumero + segundoNumero;
-                case "%": return primeiroNumero + segundoNumero;
+                case "-": return primeiroNumero - segundoNumero;
+                case "*": return primeiroNumero * segundoNumero;
+                case "/": return primeiroNumero / segundoNumero;
+                case "%": return primeiroNumero % segundoNumero;
                 default: return 0f;
             }
         }
         static void Main(string[] args)
         {
             Console.WriteLine("Informe um número:");
-            var primeiroNumerostring = Console.ReadLine();
+            var primeiroNumeroString = Console.ReadLine();
             float primeiroNumero;
 
             bool isPrimeiroNumeroValido = float.TryParse(primeiroNumeroString, out primeiroNumero);
@@ -35,14 +36,14 @@ namespace Calculadora
             bool isSegundoNumeroValido = float.TryParse(segundoNumeroString, out segundoNumero);
             if (!isSegundoNumeroValido)
             {
-                Console.WriteLine("Primerio número inválido");
+                Console.WriteLine("Segundo número inválido");
                 return;
             }
 
             Console.WriteLine("Informe o operdor matemático:");
             var operador = Console.ReadLine();
 
-            float resultado = realizarOperacao(primeiroNumero, segundoNumeroString, operador);
+            float resultado = RealizarOperacao(primeiroNumero, segundoNumero, operador);
             Console.WriteLine("O resultado da sua operação foi:" + resultado);
         }
     }

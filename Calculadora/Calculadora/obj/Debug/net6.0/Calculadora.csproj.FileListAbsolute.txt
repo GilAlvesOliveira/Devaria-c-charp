@@ -3,3 +3,13 @@ C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\ob
 C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
 C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
 C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
