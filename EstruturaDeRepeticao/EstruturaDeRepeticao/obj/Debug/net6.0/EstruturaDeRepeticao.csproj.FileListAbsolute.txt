@@ -1,0 +1,15 @@
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net6.0\EstruturaDeRepeticao.exe
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net6.0\EstruturaDeRepeticao.deps.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net6.0\EstruturaDeRepeticao.runtimeconfig.json
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net6.0\EstruturaDeRepeticao.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net6.0\EstruturaDeRepeticao.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\refint\EstruturaDeRepeticao.dll
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.pdb
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\EstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\Gilal\OneDrive\Documentos\C#\Devaria-c-charp\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net6.0\ref\EstruturaDeRepeticao.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EstruturaDeRepeticao": {
+      "commandName": "Project",
+      "commandLineArgs": "teste rafael devaria ola mundo c#"
+    }
+  }
+}
