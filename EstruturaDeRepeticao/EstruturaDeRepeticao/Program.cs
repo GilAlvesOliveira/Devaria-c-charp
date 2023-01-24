@@ -31,9 +31,12 @@ namespace EstruturaDeRepeticao
                 loopsEfetuados++;
             }
             while (loopsEfetuados < args.Length);
-           
-            //foreach
 
+            //foreach
+            foreach (var arg in args)
+            {
+                Console.WriteLine($"Estrutura foreach, valor lido: {arg}");
+            }
         }
     }
 }
